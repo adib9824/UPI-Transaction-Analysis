@@ -46,3 +46,9 @@ The purpose of this project is to demonstrate data analysis and visualization sk
 - **DAX** (Custom Measures, Percentages, Filtering Logic)
 - **PostgreSQL** (Data preparation & querying)
 - **Data Storytelling & UI Design** (Neomorphic touch)
+
+## Screenshots or Preview of dashboard
+1. ![Dashboard Overview](https://your-image-link1.com)
+2. ![User-Level Insights](https://your-image-link2.com)
+3. ![Time Trends Analysis](https://your-image-link3.com)
+4. ![Fraud Detection View](https://your-image-link4.com)
