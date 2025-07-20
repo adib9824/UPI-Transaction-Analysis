@@ -48,7 +48,7 @@ The purpose of this project is to demonstrate data analysis and visualization sk
 - **Data Storytelling & UI Design** (Neomorphic touch)
 
 ## Screenshots or Preview of dashboard
-1. ![Dashboard Overview](https://your-image-link1.com)
-2. ![User-Level Insights](https://your-image-link2.com)
-3. ![Time Trends Analysis](https://your-image-link3.com)
-4. ![Fraud Detection View](https://your-image-link4.com)
+1. ![Dashboard Overview](https://github.com/adib9824/UPI-Transaction-Analysis/blob/main/Page_3.png)
+2. ![User-Level Insights](https://github.com/adib9824/UPI-Transaction-Analysis/blob/main/page_2.png)
+3. ![Time Trends Analysis](https://github.com/adib9824/UPI-Transaction-Analysis/blob/main/Page_3.png)
+4. ![Fraud Detection View](https://github.com/adib9824/UPI-Transaction-Analysis/blob/main/Page_4.png)
