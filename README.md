@@ -47,8 +47,4 @@ The purpose of this project is to demonstrate data analysis and visualization sk
 - **PostgreSQL** (Data preparation & querying)
 - **Data Storytelling & UI Design** (Neomorphic touch)
 
-## Screenshots or Preview of dashboard
-1. ![Dashboard Overview](https://github.com/adib9824/UPI-Transaction-Analysis/blob/main/Page_3.png)
-2. ![User-Level Insights](https://github.com/adib9824/UPI-Transaction-Analysis/blob/main/page_2.png)
-3. ![Time Trends Analysis](https://github.com/adib9824/UPI-Transaction-Analysis/blob/main/Page_3.png)
-4. ![Fraud Detection View](https://github.com/adib9824/UPI-Transaction-Analysis/blob/main/Page_4.png)
+
